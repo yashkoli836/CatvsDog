@@ -1,2 +1,2 @@
 # CatvsDog
-A Neural Network on classifying an given image into dog and cat.
+A Neural Network on classifying an given image between dog and cat.
